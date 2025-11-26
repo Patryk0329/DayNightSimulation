@@ -52,10 +52,10 @@ Program wyświetla w konsoli:
 - **Tekstura trawy** - `Assets/grass.jpg`
 
 
-GIF działania programu
+### GIF działania programu
 
 ![DayNightSimulation2025-11-2617-26-27-ezgif com-optimize](https://github.com/user-attachments/assets/04e80cfb-cf07-4f49-ae3d-2647085d9709)
 
-Konsola:
+### Konsola:
 
 <img width="1471" height="402" alt="Zrzut ekranu 2025-11-26 172931" src="https://github.com/user-attachments/assets/1c249b38-36bf-4b05-9b3a-c5059ac5d49a" />
