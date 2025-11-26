@@ -17,7 +17,11 @@ Interaktywna symulacja 3D przedstawiająca realistyczny cykl dnia i nocy w trój
 - **Efekty wizualne** - blending, przezroczystość, animacje
 
 ## 🚀 Instrukcja uruchomienia
-TBA
+1. **Sklonuj repozytorium**
+   ```bash
+   git clone https://github.com/Patryk0329/DayNightSimulation.git
+2. ** Uruchom program
+- Naciśnij `F5` lub Debug → Start Debugging
 
 ### Sterowanie
 
